@@ -1,17 +1,17 @@
 {
   "name": "git-cz-pro",
   "version": "0.0.1",
-  "description": "Semantic emojified git commit, git-cz.",
+  "description": "Semantic emojified git commit, git-cz---pro edition",
   "main": "dist/cz.js",
   "bin": {
-    "git-cz": "./bin/git-cz.js",
-    "gitcz": "./bin/git-cz.js"
+    "git-cz-pro": "./bin/git-cz.js",
+    "gitczpro": "./bin/git-cz.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/streamich/git-cz.git"
+    "url": "git@github.com:Cloudkkk/git-cz-pro.git"
   },
-  "homepage": "https://github.com/streamich/git-cz",
+  "homepage": "https://github.com/Cloudkkk/git-cz-pro",
   "license": "Unlicense",
   "scripts": {
     "lint": "yarn eslint",
